@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache
+.vs/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Sistema operacional
+Thumbs.db
+.DS_Store

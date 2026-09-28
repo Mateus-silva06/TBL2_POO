@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Pratica2/Pratica2.csproj" />
+  <Project Path="Pratica1.csproj" />
+</Solution>
